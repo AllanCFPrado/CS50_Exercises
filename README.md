@@ -1,1 +1,1 @@
-# CS50_Exercises
+Python exercises from the CS50 python course
